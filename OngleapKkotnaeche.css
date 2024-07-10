@@ -7,3 +7,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapKkotnaeche/OngleapKkotnaeche.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapKkotnaeche {
+    font-family: "OngleapKkotnaeche";
+}
